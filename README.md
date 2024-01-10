@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently working on Lab 1 for Software Engineering EECE3093C
+I'm currently working on Lab 1 for Software Engineering EECE3093C__
 I co-op'd for 2 rotations at Siemens DISW + a summer internship
 <!--
 **nikgup11/nikgup11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
